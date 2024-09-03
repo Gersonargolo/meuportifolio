@@ -1,0 +1,36 @@
+#painel-sobre {
+	margin-top: 20px;
+}
+
+.titulo-clientes {
+	background-color: #0275D8;
+	padding: 10px;
+
+}
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	background-color: #333333;
+	color: #fff;
+	text-align: center;
+}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+}
